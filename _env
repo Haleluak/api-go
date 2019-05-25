@@ -1,0 +1,6 @@
+db_name = inclus
+db_pass = 123456@
+db_user = root
+db_type = mysql
+db_host = dev.phpmyadmin.vn
+token_password = thisIsTheJwtPassword
